@@ -1,1 +1,3 @@
-#go-scanner
+# go-scanner
+
+Basic TCP port scanner programmed using Go. 
